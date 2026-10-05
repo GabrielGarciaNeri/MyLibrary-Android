@@ -1,0 +1,17 @@
+<resources>
+    <string name="cover_gallery_title">Choose a cover</string>
+    <string name="cover_gallery_description">Original designs, available offline</string>
+    <string name="cover_gallery_close">Close</string>
+    <string name="cover_midnight_orbit">Midnight orbit</string>
+    <string name="cover_terracotta_sun">Terracotta sun</string>
+    <string name="cover_forest_path">Forest path</string>
+    <string name="cover_indigo_waves">Indigo waves</string>
+    <string name="cover_rose_geometry">Rose geometry</string>
+    <string name="cover_golden_arch">Golden arch</string>
+    <string name="cover_teal_mosaic">Teal mosaic</string>
+    <string name="cover_lavender_moon">Lavender moon</string>
+    <string name="cover_coral_lines">Coral lines</string>
+    <string name="cover_sage_leaves">Sage leaves</string>
+    <string name="cover_blue_horizon">Blue horizon</string>
+    <string name="cover_plum_stars">Plum stars</string>
+</resources>

@@ -1,0 +1,28 @@
+<resources>
+    <string name="quick_progress">Update progress</string>
+    <string name="progress_plus">+%1$d</string>
+    <string name="progress_exact">Exact</string>
+    <string name="progress_completed">Finished “%1$s”. Well read!</string>
+    <string name="quick_progress_error">Enter a whole number from 0 to %1$d.</string>
+    <string name="add_category">Add Category</string>
+    <string name="edit_category">Edit category</string>
+    <string name="delete_category">Delete category</string>
+    <string name="category_name">Category name</string>
+    <string name="category_name_required">Enter a category name.</string>
+    <string name="category_name_duplicate">A category with this name already exists.</string>
+    <string name="category_name_length">Use up to 40 characters.</string>
+    <string name="category_color">Choose a color</string>
+    <string name="category_color_preview">Your category</string>
+    <string name="category_palette_option">Color %1$d</string>
+    <string name="category_selected_color">Selected color</string>
+    <string name="manage_category">Manage %1$s</string>
+    <string name="delete_category_title">Delete “%1$s”?</string>
+    <string name="delete_category_empty">This category is empty. Delete it from your categories?</string>
+    <plurals name="delete_category_populated">
+        <item quantity="one">%1$d library item uses this category. Your item will not be deleted. Choose where to move it.</item>
+        <item quantity="other">%1$d library items use this category. Your items will not be deleted. Choose where to move them.</item>
+    </plurals>
+    <string name="move_items_to">Move items to</string>
+    <string name="category_missing">Category no longer available</string>
+    <string name="category_missing_body">Your library items are still saved. Choose another category.</string>
+</resources>

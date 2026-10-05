@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="upgrade_item_cover">Cover</string>
+    <string name="upgrade_item_cover_preview">Selected cover preview</string>
+    <string name="upgrade_item_cover_gallery">Choose built-in cover</string>
+    <string name="upgrade_item_cover_random">Random cover</string>
+    <string name="upgrade_item_cover_device">Choose from device</string>
+    <string name="upgrade_item_cover_remove">Remove cover</string>
+    <string name="upgrade_item_cover_importing">Preparing your cover…</string>
+    <string name="upgrade_item_cover_error">This image could not be opened. Please choose another image.</string>
+    <string name="upgrade_item_categories_error">Categories could not be loaded. Please try again before saving.</string>
+    <string name="upgrade_item_category_loading">Loading categories…</string>
+    <string name="upgrade_item_uncategorized">Uncategorized</string>
+    <string name="upgrade_item_completed">Finished! You reached the total.</string>
+    <string name="upgrade_item_decrease">Decrease progress by %1$d</string>
+    <string name="upgrade_item_increase">Increase progress by %1$d</string>
+    <string name="upgrade_item_decrease_label">−%1$d</string>
+    <string name="upgrade_item_increase_label">+%1$d</string>
+</resources>
